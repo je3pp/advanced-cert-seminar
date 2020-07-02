@@ -1,6 +1,6 @@
 # Ask the Expert - Advanced Certification Seminar Examples
 
-Unzip the data into a location that allows READ/WRITE access, then in the [cre8data.sas](./cre8data.sas) file, modify the %LET statement to reference that location.
+Clone this repository to a local path, then in the [cre8data.sas](./cre8data.sas) file, modify the %LET statement to reference that location.
 
 Copyright (c) 2020 SAS Institute Inc.
 <br>Cary, N.C. USA 27513-8000
